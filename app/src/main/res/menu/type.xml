@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/big_width"
+        android:title="大像素-宽图片"
+        app:showAsAction="never" />
+     <item
+        android:id="@+id/big_height"
+        android:title="大像素-高图片"
+        app:showAsAction="never" />
+     <item
+        android:id="@+id/small_width"
+        android:title="小像素-宽图片"
+        app:showAsAction="never" />
+     <item
+        android:id="@+id/small_height"
+        android:title="小像素-高图片"
+        app:showAsAction="never" />
+</menu>
